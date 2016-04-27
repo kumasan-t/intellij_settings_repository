@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="randomBEAR" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
