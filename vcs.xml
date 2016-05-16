@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/randomBEAR/pervasive_minecraft_mod.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NeuronRobotics/nrjavaserial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\loren\IdeaProjects" />
